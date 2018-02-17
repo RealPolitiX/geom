@@ -5,7 +5,7 @@ Summary and examples of geometric processing in python
 
 
 
-List of libraries in python:
+List of relevant packages in python:
 
 [Plyfile](https://github.com/dranjan/python-plyfile)
 
@@ -17,3 +17,8 @@ List of libraries in python:
 
 [scipy.spatial](https://docs.scipy.org/doc/scipy/reference/spatial.html)
 
+[menpo3d](https://github.com/menpo/menpo3d)
+
+
+
+![](https://github.com/RealPolitiX/geom/blob/master/examples/figs/bunny_views.png)
